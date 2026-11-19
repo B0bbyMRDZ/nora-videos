@@ -1,0 +1,223 @@
+{
+ "workdir": "/home/claude/puppy/ed05",
+ "avatar": "/home/claude/puppy/avatar/nora5.mp4",
+ "output": "video05-accidents.mp4",
+ "cta_at": 33.76,
+ "broll": [
+  {
+   "at": 2.38,
+   "file": "/home/claude/puppy/pexels/video05/clip01a_puppy-looking_17029747.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 4.69,
+   "file": "/home/claude/puppy/pexels/video05/clip02c_puppy-hiding_13588269.mp4",
+   "in": 2.0
+  },
+  {
+   "at": 7.21,
+   "file": "/home/claude/puppy/pexels/video05/clip02a_puppy-hiding_19770676.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 10.18,
+   "file": "/home/claude/puppy/pexels/video05/clip03c_woman-holding-puppy_14358623.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 11.82,
+   "file": "/home/claude/puppy/pexels/video05/clip04a_carrying-puppy-outside_9026080.mp4",
+   "in": 0.3
+  },
+  {
+   "at": 14.05,
+   "file": "/home/claude/puppy/pexels/video05/clip05c_puppy-on-grass_32320875.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 15.77,
+   "file": "/home/claude/puppy/pexels/video05/clip06a_spray-bottle-cleaning-floor_4513026.mp4",
+   "in": 3.0
+  },
+  {
+   "at": 18.12,
+   "file": "/home/claude/puppy/pexels/video05/clip08b_cleaning-floor_5592716.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 20.98,
+   "file": "/home/claude/puppy/pexels/video05/clip07a_dog-sniffing-floor_19770677.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 22.28,
+   "file": "/home/claude/puppy/pexels/video05/clip09c_puppy-playpen_35556872.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 24.35,
+   "file": "/home/claude/puppy/pexels/video05/clip10b_puppy-on-grass_9314159.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 27.64,
+   "file": "/home/claude/puppy/pexels/video05/clip10c_puppy-on-grass_37589235.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 29.96,
+   "file": "/home/claude/puppy/pexels/video05/clip06b_spray-bottle-cleaning-floor_6612202.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 32.48,
+   "file": "/home/claude/puppy/pexels/video05/clip12b_dog-door-waiting_31147382.mp4",
+   "in": 4.0
+  }
+ ],
+ "speech": [
+  [
+   0.35,
+   2.07,
+   "Never scold a puppy for an accident."
+  ],
+  [
+   2.58,
+   4.42,
+   "Scolding doesn't teach your puppy where to go."
+  ],
+  [
+   4.89,
+   7.01,
+   "It teaches them to hide from you when they need to go."
+  ],
+  [
+   7.41,
+   7.74,
+   "One."
+  ],
+  [
+   8.31,
+   8.89,
+   "Interrupt,"
+  ],
+  [
+   9.28,
+   9.92,
+   "don't punish."
+  ],
+  [
+   10.38,
+   11.66,
+   "If you catch them mid-accident,"
+  ],
+  [
+   11.97,
+   13.81,
+   "calmly scoop them up and head outside."
+  ],
+  [
+   14.25,
+   15.45,
+   "Praise them if they finish there."
+  ],
+  [
+   15.97,
+   16.23,
+   "Two."
+  ],
+  [
+   16.86,
+   17.85,
+   "Use an enzyme cleaner."
+  ],
+  [
+   18.32,
+   20.82,
+   "Regular cleaners leave a smell your puppy can still find,"
+  ],
+  [
+   21.14,
+   21.99,
+   "and they'll go there again."
+  ],
+  [
+   22.48,
+   22.71,
+   "Three."
+  ],
+  [
+   23.22,
+   23.91,
+   "Go back a step."
+  ],
+  [
+   24.55,
+   27.4,
+   "More accidents usually means too much freedom too soon."
+  ],
+  [
+   27.84,
+   29.78,
+   "Shrink their space and go out more often."
+  ],
+  [
+   30.14,
+   30.51,
+   "Today,"
+  ],
+  [
+   30.84,
+   32.35,
+   "put an enzyme cleaner by the door,"
+  ],
+  [
+   32.6,
+   33.18,
+   "so you're ready."
+  ],
+  [
+   33.96,
+   36.72,
+   "This is Day 11 of my 30-day puppy plan."
+  ],
+  [
+   37.24,
+   38.74,
+   "Follow along for the rest of the plan."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   2.38,
+   "NEVER SCOLD A PUPPY\\NFOR AN ACCIDENT",
+   "Hook"
+  ],
+  [
+   7.21,
+   15.77,
+   "1  INTERRUPT, DON'T PUNISH"
+  ],
+  [
+   15.77,
+   22.28,
+   "2  USE AN ENZYME CLEANER"
+  ],
+  [
+   22.28,
+   29.96,
+   "3  GO BACK A STEP"
+  ],
+  [
+   29.96,
+   33.76,
+   "TODAY \u00b7 GET A CLEANER"
+  ],
+  [
+   33.76,
+   38.96,
+   "FOLLOW FOR\\NTHE FULL PLAN"
+  ]
+ ]
+}

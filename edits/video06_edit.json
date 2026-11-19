@@ -1,0 +1,198 @@
+{
+ "workdir": "/home/claude/puppy/ed06",
+ "avatar": "/home/claude/puppy/avatar/nora6.mp4",
+ "output": "video06-leash-pulling.mp4",
+ "cta_at": 29.6,
+ "broll": [
+  {
+   "at": 2.34,
+   "file": "/home/claude/puppy/pexels/video06/clip01a_dog-pulling-on-leash_28965224.mp4",
+   "in": 0.3
+  },
+  {
+   "at": 4.63,
+   "file": "/home/claude/puppy/pexels/video06/clip02b_puppy-on-leash-walking_20583363.mp4",
+   "in": 4.0
+  },
+  {
+   "at": 7.07,
+   "file": "/home/claude/puppy/pexels/video06/clip02c_puppy-on-leash-walking_27808232.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 9.39,
+   "file": "/home/claude/puppy/pexels/video06/clip04a_person-standing-with-dog-on-leash_6575914.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 12.59,
+   "file": "/home/claude/puppy/pexels/video06/clip05b_dog-sitting-leash_38566936.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 14.07,
+   "file": "/home/claude/puppy/pexels/video06/clip06a_dog-training-treat_7197703.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 16.26,
+   "file": "/home/claude/puppy/pexels/video06/clip03a_person-walking-dog_7199265.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 18.44,
+   "file": "/home/claude/puppy/pexels/video06/clip08c_puppy-on-leash-walking_5740421.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 20.95,
+   "file": "/home/claude/puppy/pexels/video06/clip10a_dog-in-hallway_19087160.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 24.0,
+   "file": "/home/claude/puppy/pexels/video06/clip09b_puppy-in-yard_31500738.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 26.25,
+   "file": "/home/claude/puppy/pexels/video06/clip11c_puppy-on-leash-grass_37589223.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 26.94,
+   "file": "/home/claude/puppy/pexels/video06/clip12c_dog-training-treat_7189541.mp4",
+   "in": 8.0
+  }
+ ],
+ "speech": [
+  [
+   0.34,
+   1.96,
+   "Your puppy pulls because it works."
+  ],
+  [
+   2.54,
+   4.45,
+   "Every time your puppy pulls and you follow,"
+  ],
+  [
+   4.81,
+   6.8,
+   "they learn that pulling gets them where they want to go."
+  ],
+  [
+   7.27,
+   7.56,
+   "One."
+  ],
+  [
+   8.0,
+   8.88,
+   "Stop when it's tight."
+  ],
+  [
+   9.59,
+   10.83,
+   "The moment the leash goes tight,"
+  ],
+  [
+   11.04,
+   12.23,
+   "stand still and wait."
+  ],
+  [
+   12.79,
+   13.53,
+   "Don't pull back."
+  ],
+  [
+   14.27,
+   14.52,
+   "Two."
+  ],
+  [
+   15.04,
+   15.89,
+   "Reward the slack."
+  ],
+  [
+   16.46,
+   17.45,
+   "When the leash loosens,"
+  ],
+  [
+   17.66,
+   18.32,
+   "say yes,"
+  ],
+  [
+   18.56,
+   20.45,
+   "give a treat by your leg, and walk on."
+  ],
+  [
+   21.15,
+   21.42,
+   "Three."
+  ],
+  [
+   21.97,
+   25.96,
+   "Start somewhere boring, like your hallway or yard, where there's less to pull toward."
+  ],
+  [
+   26.45,
+   26.82,
+   "Today,"
+  ],
+  [
+   27.05,
+   29.15,
+   "do 5 minutes of leash practice in your yard."
+  ],
+  [
+   29.8,
+   32.33,
+   "This is Day 24 of my 30-day puppy plan."
+  ],
+  [
+   32.94,
+   34.47,
+   "Follow along for the rest of the plan."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   2.34,
+   "YOUR PUPPY PULLS\\NBECAUSE IT WORKS",
+   "Hook"
+  ],
+  [
+   7.07,
+   14.07,
+   "1  STOP WHEN IT'S TIGHT"
+  ],
+  [
+   14.07,
+   20.95,
+   "2  REWARD THE SLACK"
+  ],
+  [
+   20.95,
+   26.25,
+   "3  PICK A BORING SPOT"
+  ],
+  [
+   26.25,
+   29.6,
+   "5 MINUTES \u00b7 IN THE YARD"
+  ],
+  [
+   29.6,
+   34.7,
+   "FOLLOW FOR\\NTHE FULL PLAN"
+  ]
+ ]
+}

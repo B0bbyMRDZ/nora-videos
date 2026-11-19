@@ -1,0 +1,223 @@
+{
+ "workdir": "/home/claude/puppy/ed04",
+ "avatar": "/home/claude/puppy/avatar/nora4.mp4",
+ "output": "video04-puppy-biting.mp4",
+ "cta_at": 33.71,
+ "broll": [
+  {
+   "at": 1.99,
+   "file": "/home/claude/puppy/pexels/video04/clip01c_puppy-biting-hand_7801446.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 3.42,
+   "file": "/home/claude/puppy/pexels/video04/clip02a_puppy-chewing-toy_36273573.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 6.09,
+   "file": "/home/claude/puppy/pexels/video04/clip01b_puppy-biting-hand_7199255.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 8.28,
+   "file": "/home/claude/puppy/pexels/video04/clip04c_puppy-chew-toy_39995023.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 10.39,
+   "file": "/home/claude/puppy/pexels/video04/clip03c_person-playing-with-puppy_35556868.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 12.56,
+   "file": "/home/claude/puppy/pexels/video04/clip05a_dog-chewing-toy_10884663.mp4",
+   "in": 2.0
+  },
+  {
+   "at": 14.07,
+   "file": "/home/claude/puppy/pexels/video04/clip04b_puppy-chew-toy_11288238.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 16.17,
+   "file": "/home/claude/puppy/pexels/video04/clip03a_person-playing-with-puppy_7189544.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 18.14,
+   "file": "/home/claude/puppy/pexels/video04/clip06a_person-standing-up-from-floor_10567419.mp4",
+   "in": 8.0
+  },
+  {
+   "at": 22.18,
+   "file": "/home/claude/puppy/pexels/video04/clip07c_puppy-sitting_6131501.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 24.1,
+   "file": "/home/claude/puppy/pexels/video04/clip10c_puppy-yawning_39995025.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 26.12,
+   "file": "/home/claude/puppy/pexels/video04/clip09a_puppy-sleeping_11562575.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 29.39,
+   "file": "/home/claude/puppy/pexels/video04/clip11c_dog-toy_19453356.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 31.91,
+   "file": "/home/claude/puppy/pexels/video04/clip12b_puppy-playing-with-toy_35172441.mp4",
+   "in": 1.0
+  }
+ ],
+ "speech": [
+  [
+   0.36,
+   1.69,
+   "What to do when your puppy bites."
+  ],
+  [
+   2.19,
+   3.17,
+   "Puppy biting is normal."
+  ],
+  [
+   3.62,
+   5.68,
+   "They explore with their mouths, and they're teething."
+  ],
+  [
+   6.29,
+   7.95,
+   "Your job is to teach them what to bite."
+  ],
+  [
+   8.48,
+   8.77,
+   "One."
+  ],
+  [
+   9.33,
+   10.07,
+   "Swap in a toy."
+  ],
+  [
+   10.59,
+   12.38,
+   "When teeth touch skin, go still,"
+  ],
+  [
+   12.74,
+   13.75,
+   "then offer a chew toy."
+  ],
+  [
+   14.27,
+   15.93,
+   "Praise them when they bite that instead."
+  ],
+  [
+   16.37,
+   16.64,
+   "Two."
+  ],
+  [
+   17.16,
+   17.9,
+   "Pause the fun."
+  ],
+  [
+   18.34,
+   19.26,
+   "If they keep biting,"
+  ],
+  [
+   19.54,
+   21.91,
+   "calmly stand up and step away for a few seconds."
+  ],
+  [
+   22.38,
+   23.65,
+   "Biting makes the fun stop."
+  ],
+  [
+   24.3,
+   24.55,
+   "Three."
+  ],
+  [
+   24.98,
+   25.88,
+   "Check for nap time."
+  ],
+  [
+   26.32,
+   29.07,
+   "A wild, bitey puppy is often an overtired puppy."
+  ],
+  [
+   29.59,
+   30.04,
+   "Today,"
+  ],
+  [
+   30.41,
+   31.78,
+   "keep a small toy in your pocket,"
+  ],
+  [
+   32.03,
+   33.34,
+   "so the swap is always ready."
+  ],
+  [
+   33.91,
+   36.11,
+   "This is Day 8 of my 30-day puppy plan."
+  ],
+  [
+   36.72,
+   38.2,
+   "Follow along for the rest of the plan."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   1.99,
+   "WHAT TO DO WHEN\\NYOUR PUPPY BITES",
+   "Hook"
+  ],
+  [
+   8.28,
+   16.17,
+   "1  SWAP IN A TOY"
+  ],
+  [
+   16.17,
+   24.1,
+   "2  PAUSE THE FUN"
+  ],
+  [
+   24.1,
+   29.39,
+   "3  IT MIGHT BE NAP TIME"
+  ],
+  [
+   29.39,
+   33.71,
+   "TODAY \u00b7 TOY IN YOUR POCKET"
+  ],
+  [
+   33.71,
+   38.52,
+   "FOLLOW FOR\\NTHE FULL PLAN"
+  ]
+ ]
+}

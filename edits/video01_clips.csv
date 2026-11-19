@@ -1,0 +1,13 @@
+video,clip,segment,start,end,duration_sec,script_line,search_query,fallback_queries,notes
+01,01,Why it matters,0:03,0:05,2,"The first hour home sets the tone. Get it right, and you'll have fewer accidents tonight.",puppy arriving home,puppy in arms|woman holding puppy,Puppy just home
+01,02,Why it matters,0:05,0:07,2,"The first hour home sets the tone. Get it right, and you'll have fewer accidents tonight.",puppy on floor indoors,puppy indoors|puppy looking,Calm puppy indoors
+01,03,Point 1,0:07,0:09.67,2.67,"One. Go to the potty spot first. Carry your puppy straight to one spot outside, and wait. When they go, praise softly and give a tiny treat.",carrying puppy outside,woman holding puppy outdoors|puppy in arms,Carried outside
+01,04,Point 1,0:09.67,0:12.33,2.66,"One. Go to the potty spot first. Carry your puppy straight to one spot outside, and wait. When they go, praise softly and give a tiny treat.",puppy on grass,puppy sniffing grass|puppy in yard,At the potty spot
+01,05,Point 1,0:12.33,0:15,2.67,"One. Go to the potty spot first. Carry your puppy straight to one spot outside, and wait. When they go, praise softly and give a tiny treat.",dog treat hand,dog training treat|giving dog treat,Tiny treat
+01,06,Point 2,0:15,0:17.33,2.33,"Two. Start with one small room, not the whole house. Too much space too soon means more accidents.",puppy playpen,puppy in small room|puppy indoors,One small space
+01,07,Point 2,0:17.33,0:19.67,2.34,"Two. Start with one small room, not the whole house. Too much space too soon means more accidents.",puppy exploring room,puppy walking indoors|puppy on carpet,Exploring
+01,08,Point 2,0:19.67,0:22,2.33,"Two. Start with one small room, not the whole house. Too much space too soon means more accidents.",puppy lying on rug,puppy resting indoors|puppy on floor,Settled
+01,09,Point 3,0:22,0:26,4,Three. Keep it calm. Skip the welcome party. Let your puppy sniff and explore. Visitors can wait.,puppy sniffing,puppy exploring|curious puppy,Sniff and explore
+01,10,Point 3,0:26,0:30,4,Three. Keep it calm. Skip the welcome party. Let your puppy sniff and explore. Visitors can wait.,puppy sleeping,sleepy puppy|puppy nap,"Calm, not a party"
+01,11,Do it today,0:30,0:32.5,2.5,"Do this today: pick that potty spot, and walk the path from your door to it.",front door backyard,backyard grass|door to garden,Path to the spot
+01,12,Do it today,0:32.5,0:35,2.5,"Do this today: pick that potty spot, and walk the path from your door to it.",puppy walking on grass,puppy on grass|puppy in garden,Walk the path

@@ -1,0 +1,233 @@
+{
+ "workdir": "/home/claude/puppy/ed01",
+ "avatar": "/home/claude/puppy/avatar/nora1.mp4",
+ "output": "video01-first-hour-home.mp4",
+ "cta_at": 35.2,
+ "broll": [
+  {
+   "at": 2.39,
+   "file": "/home/claude/puppy/pexels/video01/clip01a_puppy-arriving-home_18216633.mp4",
+   "in": 2.0
+  },
+  {
+   "at": 4.73,
+   "file": "/home/claude/puppy/pexels/video01/clip02a_puppy-on-floor-indoors_16422166.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 7.48,
+   "file": "/home/claude/puppy/pexels/video01/clip04b_puppy-on-grass_9252754.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 10.04,
+   "file": "/home/claude/puppy/pexels/video01/clip03a_carrying-puppy-outside_6318311.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 12.5,
+   "file": "/home/claude/puppy/pexels/video01/clip04c_puppy-on-grass_32320875.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 14.31,
+   "file": "/home/claude/puppy/pexels/video01/clip05b_dog-treat-hand_34129571.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 16.89,
+   "file": "/home/claude/puppy/pexels/video01/clip08a_puppy-lying-on-rug_39995025.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 19.42,
+   "file": "/home/claude/puppy/pexels/video01/clip07b_puppy-exploring-room_7117646.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 20.6,
+   "file": "/home/claude/puppy/pexels/video01/clip01b_puppy-arriving-home_9992285.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 23.35,
+   "file": "/home/claude/puppy/pexels/video01/clip02b_puppy-on-floor-indoors_13588262.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 26.68,
+   "file": "/home/claude/puppy/pexels/video01/clip09b_puppy-sniffing_11622179.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 28.59,
+   "file": "/home/claude/puppy/pexels/video01/clip10a_puppy-sleeping_11562575.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 30.0,
+   "file": "/home/claude/puppy/pexels/video01/clip11b_front-door-backyard_40955485.mp4",
+   "in": 2.5
+  },
+  {
+   "at": 32.65,
+   "file": "/home/claude/puppy/pexels/video01/clip12b_puppy-walking-on-grass_31861354.mp4",
+   "in": 1.0
+  }
+ ],
+ "speech": [
+  [
+   0.36,
+   2.12,
+   "Do this before your puppy comes inside."
+  ],
+  [
+   2.59,
+   4.33,
+   "The first hour home sets the tone."
+  ],
+  [
+   4.93,
+   5.46,
+   "Get it right,"
+  ],
+  [
+   5.68,
+   7.21,
+   "and you'll have fewer accidents tonight."
+  ],
+  [
+   7.68,
+   7.98,
+   "One."
+  ],
+  [
+   8.56,
+   9.79,
+   "Go to the potty spot first."
+  ],
+  [
+   10.24,
+   12.39,
+   "Carry your puppy straight to one spot outside,"
+  ],
+  [
+   12.62,
+   13.05,
+   "and wait."
+  ],
+  [
+   13.55,
+   14.09,
+   "When they go,"
+  ],
+  [
+   14.51,
+   16.47,
+   "praise softly and give a tiny treat."
+  ],
+  [
+   17.09,
+   17.32,
+   "Two."
+  ],
+  [
+   17.99,
+   19.31,
+   "Start with one small room,"
+  ],
+  [
+   19.54,
+   20.38,
+   "not the whole house."
+  ],
+  [
+   20.8,
+   22.98,
+   "Too much space too soon means more accidents."
+  ],
+  [
+   23.55,
+   23.77,
+   "Three."
+  ],
+  [
+   24.39,
+   25.07,
+   "Keep it calm."
+  ],
+  [
+   25.48,
+   26.49,
+   "Skip the welcome party."
+  ],
+  [
+   26.87,
+   28.33,
+   "Let your puppy sniff and explore."
+  ],
+  [
+   28.79,
+   29.63,
+   "Visitors can wait."
+  ],
+  [
+   30.2,
+   30.87,
+   "Do this today:"
+  ],
+  [
+   31.43,
+   32.46,
+   "pick that potty spot,"
+  ],
+  [
+   32.84,
+   34.71,
+   "and walk the path from your door to it."
+  ],
+  [
+   35.4,
+   37.41,
+   "This is Day 1 of my 30-day puppy plan."
+  ],
+  [
+   37.87,
+   39.34,
+   "Follow along for the rest of the plan."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   2.39,
+   "DO THIS BEFORE YOUR\\NPUPPY COMES INSIDE",
+   "Hook"
+  ],
+  [
+   7.48,
+   16.89,
+   "1  POTTY SPOT FIRST"
+  ],
+  [
+   16.89,
+   23.35,
+   "2  ONE SMALL ROOM"
+  ],
+  [
+   23.35,
+   30.0,
+   "3  KEEP IT CALM"
+  ],
+  [
+   30.0,
+   35.2,
+   "TODAY \u00b7 PICK THE SPOT"
+  ],
+  [
+   35.2,
+   39.62,
+   "FOLLOW FOR\\NTHE FULL PLAN"
+  ]
+ ]
+}

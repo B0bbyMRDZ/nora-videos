@@ -1,0 +1,13 @@
+video,clip,segment,start,end,duration_sec,script_line,search_query,fallback_queries,notes
+03,01,Why it matters,0:03,0:05,2,Most accidents aren't stubbornness. They happen because the puppy wasn't taken out at the right moment.,puppy on floor indoors,puppy indoors|puppy looking,Accidents happen indoors
+03,02,Why it matters,0:05,0:07,2,Most accidents aren't stubbornness. They happen because the puppy wasn't taken out at the right moment.,puppy on grass,puppy outdoors|puppy in yard,Right moment outside
+03,03,Point 1,0:07,0:09.67,2.67,One. After every nap. Take your puppy out the minute they wake up. Don't wait to see if they need to go.,puppy waking up,sleepy puppy|puppy yawning,Just woke up
+03,04,Point 1,0:09.67,0:12.33,2.66,One. After every nap. Take your puppy out the minute they wake up. Don't wait to see if they need to go.,puppy sleeping,puppy nap|sleeping puppy,Nap time
+03,05,Point 1,0:12.33,0:15,2.67,One. After every nap. Take your puppy out the minute they wake up. Don't wait to see if they need to go.,puppy running outside,puppy running grass|puppy in garden,Straight outside
+03,06,Point 2,0:15,0:17.33,2.33,"Two. After eating and after play. Within about fifteen minutes of a meal, and right after a burst of zoomies.",puppy eating from bowl,dog eating|dog food bowl,After a meal
+03,07,Point 2,0:17.33,0:19.67,2.34,"Two. After eating and after play. Within about fifteen minutes of a meal, and right after a burst of zoomies.",puppies playing,puppy playing with toy|puppy running,After play
+03,08,Point 2,0:19.67,0:22,2.33,"Two. After eating and after play. Within about fifteen minutes of a meal, and right after a burst of zoomies.",puppy running on grass,dog running yard|puppy zoomies,Zoomies
+03,09,Point 3,0:22,0:26,4,"Three. Every hour or two in between, while they're awake. Young puppies just can't hold it longer.",puppy in yard,puppy on grass|puppy sniffing grass,Regular trips
+03,10,Point 3,0:26,0:30,4,"Three. Every hour or two in between, while they're awake. Young puppies just can't hold it longer.",puppy sitting,small puppy|puppy looking up,Can't hold it long
+03,11,Do it today,0:30,0:32.5,2.5,"Today, write down every potty trip. In three days, you'll see your puppy's pattern.",writing in notebook,writing notes|person writing,Log every trip
+03,12,Do it today,0:32.5,0:35,2.5,"Today, write down every potty trip. In three days, you'll see your puppy's pattern.",puppy on grass,puppy outdoors|puppy in yard,See the pattern

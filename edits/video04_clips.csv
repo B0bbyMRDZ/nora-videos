@@ -1,0 +1,13 @@
+video,clip,segment,start,end,duration_sec,script_line,search_query,fallback_queries,notes
+04,01,Why it matters,0:03,0:05,2,"Puppy biting is normal. They explore with their mouths, and they're teething. Your job is to teach them what to bite.",puppy biting hand,puppy playing with hand|puppy nibbling,Mouthy puppy
+04,02,Why it matters,0:05,0:07,2,"Puppy biting is normal. They explore with their mouths, and they're teething. Your job is to teach them what to bite.",puppy chewing toy,puppy chew toy|dog chewing,Teething
+04,03,Point 1,0:07,0:09.67,2.67,"One. Swap in a toy. When teeth touch skin, go still, then offer a chew toy. Praise them when they bite that instead.",person playing with puppy,hand and puppy|puppy play,Teeth on skin
+04,04,Point 1,0:09.67,0:12.33,2.66,"One. Swap in a toy. When teeth touch skin, go still, then offer a chew toy. Praise them when they bite that instead.",puppy chew toy,dog chewing toy|puppy with toy,Offer a toy
+04,05,Point 1,0:12.33,0:15,2.67,"One. Swap in a toy. When teeth touch skin, go still, then offer a chew toy. Praise them when they bite that instead.",dog chewing toy,puppy biting toy|dog with toy,Bites the toy
+04,06,Point 2,0:15,0:17.33,2.33,"Two. Pause the fun. If they keep biting, calmly stand up and step away for a few seconds. Biting makes the fun stop.",person standing up from floor,person walking away|woman standing,Stand up
+04,07,Point 2,0:17.33,0:19.67,2.34,"Two. Pause the fun. If they keep biting, calmly stand up and step away for a few seconds. Biting makes the fun stop.",puppy sitting,puppy looking up|puppy waiting,Fun stops
+04,08,Point 2,0:19.67,0:22,2.33,"Two. Pause the fun. If they keep biting, calmly stand up and step away for a few seconds. Biting makes the fun stop.",puppy looking,curious puppy|puppy face,Puppy notices
+04,09,Point 3,0:22,0:26,4,"Three. Check for nap time. A wild, bitey puppy is often an overtired puppy.",puppy sleeping,sleepy puppy|puppy nap,Overtired
+04,10,Point 3,0:26,0:30,4,"Three. Check for nap time. A wild, bitey puppy is often an overtired puppy.",puppy yawning,sleepy dog|tired puppy,Nap time
+04,11,Do it today,0:30,0:32.5,2.5,"Today, keep a small toy in your pocket, so the swap is always ready.",dog toy,puppy toys|chew toy,Small toy
+04,12,Do it today,0:32.5,0:35,2.5,"Today, keep a small toy in your pocket, so the swap is always ready.",puppy playing with toy,puppy chew toy|dog with toy,Swap ready

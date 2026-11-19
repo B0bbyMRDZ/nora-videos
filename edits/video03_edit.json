@@ -1,0 +1,198 @@
+{
+ "workdir": "/home/claude/puppy/ed03",
+ "avatar": "/home/claude/puppy/avatar/nora3.mp4",
+ "output": "video03-potty-schedule.mp4",
+ "cta_at": 32.93,
+ "broll": [
+  {
+   "at": 2.46,
+   "file": "/home/claude/puppy/pexels/video03/clip01b_puppy-on-floor-indoors_13588262.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 4.66,
+   "file": "/home/claude/puppy/pexels/video03/clip02c_puppy-on-grass_32320875.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 7.77,
+   "file": "/home/claude/puppy/pexels/video03/clip04a_puppy-sleeping_11562575.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 10.06,
+   "file": "/home/claude/puppy/pexels/video03/clip05a_puppy-running-outside_32423655.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 12.35,
+   "file": "/home/claude/puppy/pexels/video03/clip02a_puppy-on-grass_9314158.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 14.3,
+   "file": "/home/claude/puppy/pexels/video03/clip06a_puppy-eating-from-bowl_8434087.mp4",
+   "in": 2.0
+  },
+  {
+   "at": 17.28,
+   "file": "/home/claude/puppy/pexels/video03/clip06b_puppy-eating-from-bowl_8473407.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 19.19,
+   "file": "/home/claude/puppy/pexels/video03/clip07c_puppies-playing_9159494.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 21.37,
+   "file": "/home/claude/puppy/pexels/video03/clip09b_puppy-in-yard_31500738.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 25.01,
+   "file": "/home/claude/puppy/pexels/video03/clip10a_puppy-sitting_39519110.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 27.44,
+   "file": "/home/claude/puppy/pexels/video03/clip11a_writing-in-notebook_6929080.mp4",
+   "in": 0.3
+  },
+  {
+   "at": 30.26,
+   "file": "/home/claude/puppy/pexels/video03/clip12a_puppy-on-grass_5877837.mp4",
+   "in": 0.3
+  }
+ ],
+ "speech": [
+  [
+   0.37,
+   2.18,
+   "The potty schedule most owners skip."
+  ],
+  [
+   2.66,
+   4.39,
+   "Most accidents aren't stubbornness."
+  ],
+  [
+   4.86,
+   7.47,
+   "They happen because the puppy wasn't taken out at the right moment."
+  ],
+  [
+   7.97,
+   8.32,
+   "One."
+  ],
+  [
+   8.67,
+   9.6,
+   "After every nap."
+  ],
+  [
+   10.26,
+   12.02,
+   "Take your puppy out the minute they wake up."
+  ],
+  [
+   12.55,
+   13.88,
+   "Don't wait to see if they need to go."
+  ],
+  [
+   14.5,
+   14.77,
+   "Two."
+  ],
+  [
+   15.3,
+   16.85,
+   "After eating and after play."
+  ],
+  [
+   17.48,
+   19.09,
+   "Within about 15 minutes of a meal,"
+  ],
+  [
+   19.29,
+   20.85,
+   "and right after a burst of zoomies."
+  ],
+  [
+   21.57,
+   21.82,
+   "Three."
+  ],
+  [
+   22.35,
+   24.77,
+   "Every hour or two in between, while they're awake."
+  ],
+  [
+   25.21,
+   27.06,
+   "Young puppies just can't hold it longer."
+  ],
+  [
+   27.64,
+   28.04,
+   "Today,"
+  ],
+  [
+   28.28,
+   29.99,
+   "write down every potty trip."
+  ],
+  [
+   30.46,
+   32.58,
+   "In three days, you'll see your puppy's pattern."
+  ],
+  [
+   33.13,
+   35.23,
+   "This is Day 3 of my 30-day puppy plan."
+  ],
+  [
+   35.78,
+   37.25,
+   "Follow along for the rest of the plan."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   2.46,
+   "THE POTTY SCHEDULE\\NMOST OWNERS SKIP",
+   "Hook"
+  ],
+  [
+   7.77,
+   14.3,
+   "1  AFTER EVERY NAP"
+  ],
+  [
+   14.3,
+   21.37,
+   "2  AFTER MEALS AND PLAY"
+  ],
+  [
+   21.37,
+   27.44,
+   "3  EVERY HOUR OR TWO"
+  ],
+  [
+   27.44,
+   32.93,
+   "TODAY \u00b7 LOG EVERY TRIP"
+  ],
+  [
+   32.93,
+   37.49,
+   "FOLLOW FOR\\NTHE FULL PLAN"
+  ]
+ ]
+}

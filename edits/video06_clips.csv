@@ -1,0 +1,13 @@
+video,clip,segment,start,end,duration_sec,script_line,search_query,fallback_queries,notes
+06,01,Why it matters,0:03,0:05,2,"Every time your puppy pulls and you follow, they learn that pulling gets them where they want to go.",dog pulling on leash,dog walking leash|puppy on leash,Pulling
+06,02,Why it matters,0:05,0:07,2,"Every time your puppy pulls and you follow, they learn that pulling gets them where they want to go.",puppy on leash walking,dog walking sidewalk|walking a dog,Owner follows
+06,03,Point 1,0:07,0:09.67,2.67,"One. Stop when it's tight. The moment the leash goes tight, stand still and wait. Don't pull back.",person walking dog,dog on leash|walking a dog,Leash tight
+06,04,Point 1,0:09.67,0:12.33,2.66,"One. Stop when it's tight. The moment the leash goes tight, stand still and wait. Don't pull back.",person standing with dog on leash,dog on leash waiting|dog sitting leash,Stand still
+06,05,Point 1,0:12.33,0:15,2.67,"One. Stop when it's tight. The moment the leash goes tight, stand still and wait. Don't pull back.",dog sitting leash,puppy on leash|dog waiting,Wait
+06,06,Point 2,0:15,0:17.33,2.33,"Two. Reward the slack. When the leash loosens, say yes, give a treat by your leg, and walk on.",dog training treat,giving dog treat|woman giving treats to dog,Treat by your leg
+06,07,Point 2,0:17.33,0:19.67,2.34,"Two. Reward the slack. When the leash loosens, say yes, give a treat by your leg, and walk on.",dog walking beside owner,walking a dog|dog on leash,Loose leash
+06,08,Point 2,0:19.67,0:22,2.33,"Two. Reward the slack. When the leash loosens, say yes, give a treat by your leg, and walk on.",puppy on leash walking,small dog leash|dog walking,Walk on
+06,09,Point 3,0:22,0:26,4,"Three. Start somewhere boring, like your hallway or yard, where there's less to pull toward.",puppy in yard,puppy on grass|dog in backyard,Boring yard
+06,10,Point 3,0:26,0:30,4,"Three. Start somewhere boring, like your hallway or yard, where there's less to pull toward.",dog in hallway,dog indoors|dog walking indoors,Hallway practice
+06,11,Do it today,0:30,0:32.5,2.5,"Today, do five minutes of leash practice in your yard.",puppy on leash grass,puppy on leash|dog walking grass,Five minutes
+06,12,Do it today,0:32.5,0:35,2.5,"Today, do five minutes of leash practice in your yard.",dog training treat,giving dog treat|puppy treat,Practice
